@@ -1,0 +1,17 @@
+Authorization
+=============
+Authentication ==> it will check the user is valid or not
+Authorization==> the user is  valid but he will check the access privetlization it will check permission
+
+Types Of Authentication
+==================
+1) Basic Authentication
+2) Digest Authentication
+3) Preemptive  Authentication
+4) Bearer  Token Authentication
+4) oAuth 1.0, 2.0 Authentication
+5) API keys Authentication
+
+auth methods we can pass in the any type of authentication
+
+note basic,digest and preemptive authentications are use user name and password but internally algarithem is defferent
